@@ -10,6 +10,8 @@ namespace BankApp
     {
         static void Main(string[] args)
         {
+            //Object or instance
+            var account = new Account();
         }
     }
 }
